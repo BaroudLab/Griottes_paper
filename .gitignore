@@ -1,3 +1,6 @@
 # Tagged Image File Format
 *.tiff
 *.tif
+
+# CSV
+*.csv
